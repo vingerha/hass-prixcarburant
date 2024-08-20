@@ -384,8 +384,9 @@ action:
 mode: single
 ```
 3. Créer la carte
-```
+
 ![image](https://github.com/user-attachments/assets/3746b676-3e17-42e3-9fe0-026c9e72860a)
+
 ```
 type: custom:auto-entities
 card:
@@ -398,8 +399,3 @@ filter:
     - state: unavailable
 show_empty: true
 ```
-
-
-5. 
-
-
