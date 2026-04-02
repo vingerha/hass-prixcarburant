@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.18.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.17.0...3.18.0) (2026-04-02)
+
+### Features
+
+* add measurement state class on sensor ([#150](https://github.com/Aohzan/hass-prixcarburant/issues/150)) ([51797ea](https://github.com/Aohzan/hass-prixcarburant/commit/51797ea4e93d31f53be21158df094f2594fe2708))
+
 ## [3.17.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.16.1...3.17.0) (2025-12-24)
 
 ### Features
