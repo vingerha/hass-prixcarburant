@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.19.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.18.1...3.19.0) (2026-04-04)
+
+### Features
+
+* change unit of sensor by €/l ([#152](https://github.com/Aohzan/hass-prixcarburant/issues/152)) ([d3e0ec6](https://github.com/Aohzan/hass-prixcarburant/commit/d3e0ec65d936c5e850b3757cf904ca66d3022c57))
+
 ## [3.18.1](https://github.com/Aohzan/hass-prixcarburant/compare/3.18.0...3.18.1) (2026-04-03)
 
 ### Bug Fixes
